@@ -1,0 +1,226 @@
+---
+title: "Quantitative Economics at LMH"
+---
+
+
+## What is this? 
+ 
+This document details our college teaching arrangements for Quantitative Economics (QE) at Lady Margaret Hall. It will be updated periodically, so please make sure to check back regularly. The date of the current version is given above.
+
+## Important!
+
+QE teaching at LMH is split across **two academic years**. Eight "regular" classes will take place in TT of your second year, and four revision classes will take place in HT of your third year. To keep my life simple, this document applies to all classes that take place in a given *calendar year*. In other words: the material listed below under [classes](#classes) applies to current second years while the material listed under [revision classes](#revision-classes) applies to current third years.
+
+## Blog Posts 
+
+I've written some blog posts covering topics from QE or slight extensions of the course material. If you have any questions about them, leave a comment! 
+
+- [A Good Instrument is a Bad Control](https://www.econometrics.blog/post/a-good-instrument-is-a-bad-control/)
+- [Random Variables Cheatsheet](https://github.com/fditraglia/random-variables-cheatsheet/blob/main/random-variables-cheatsheet.pdf)
+- [The Independence Zoo](https://www.econometrics.blog/post/why-econometrics-is-confusing-part-ii-the-independence-zoo/)
+- [Three Ways of Thinking About IV](https://www.econometrics.blog/post/three-ways-of-thinking-about-instrumental-variables/)
+- [Why Econometrics is Confusing: The Error Term](https://www.econometrics.blog/post/why-econometrics-is-confusing-part-1-the-error-term/)
+- [Understanding the F-Statistic](https://www.econometrics.blog/post/understanding-the-f-statistic/)
+- [The CLT: Thirty isn't the magic number](https://www.econometrics.blog/post/thirty-isn-t-the-magic-number/)
+
+## Classes
+During TT of your second year, you will have eight QE classes: one each week.
+
+### Logistics: TT 2024
+
+Our classes will take place on Thursdays from 3-5:30pm in weeks 1-8 of Trinity Term in the following locations:
+
+- **Amanda Foreman Room** - weeks 2, 4, 5, 7, and 8
+- **Lyttleton Room** - weeks 1, 3, and 6
+
+### Assignments
+- Each class will begin with a short quiz on that week's material. These will typically be based on the lecturer's "Review Questions" but may also incorporate material discussed in our previous classes. To prepare, you should read consult the lecture notes and slides and solve all of the review questions in advance.
+- The problem set for a given week is due on the Sunday immediately *after* the tutorial at noon. Submissions will be online via canvas.
+- I will mark and return your quizzes each week; the problem sets will be centrally marked by the economics department by 5pm on the Tuesday following your submission.
+
+
+Note that "Review questions X", "Worksheet X" etc.\ refer to the lecturer's course materials posted on [canvas](https://canvas.ox.ac.uk/courses/218644).
+
+### Class 1 - Prob/Stats Review 
+ - **Review before class**: "Review of Prob & Stats" notes, Review questions 1
+ - **Solve after class**: Worksheet 1 problems 4, 7, 9, 13, 15
+ - **Submit for marking**: Worksheet 1 problems 7, 9, 15
+
+### Class 2 - Regression I 
+ - **Review before class**: Notes/Slides Part I, Review questions 2
+ - **Solve after class**: Worksheet 2 problems 1, 3, 4, 5, 8, 9
+ - **Submit for marking**: Worksheet 2 problems 3, 4, 9
+ 
+### Class 3 - Regression II 
+ - **Review before class**: Notes/Slides Part II, Review questions 3
+ - **Solve after class**: Worksheet 3 problems 1, 2, 3, 5, 7, 8
+ - **Submit for marking**: Worksheet 3 problems 1, 5, 7
+ 
+### Class 4 - Regression III 
+ - **Review before class**: Notes/Slides Part II continued, Review questions 4
+ - **Solve after class**: Worksheet 4 problems 4, 5, 6, 7, 8 
+ - **Submit for marking**: Worksheet 4 problems 4, 5, 8
+ 
+### Class 5 - Endogeneity I 
+ - **Review before class**: Notes/Slides Part III, Review questions 5 
+ - **Solve after class**: Worksheet 5 problems 1, 4, 5, 6, 7
+ - **Submit for marking**:  Worksheet 5 problems 1, 4, 6
+ 
+### Class 6 - Endogeneity II 
+ - **Review before class**: Notes/Slides Part III continued, Review questions 6
+ - **Solve after class**: 1, 2, 4, 5, 7
+ - **Submit for marking**: 1, 2, 4
+ 
+### Class 7 - Time Series I 
+ - **Review before class**: Notes/Slides Part IV, Review questions 7
+ - **Solve after class**: 1, 2, 3, 4 
+ - **Submit for marking**: 1, 4
+ 
+### Class 8 - Time Series II 
+ - **Review before class**: Notes/Slides Part IV continued, Review questions 8
+ - **Solve after class**: 1, 2, 3, 4
+ - **Submit for marking**: 1, 2
+
+<!--## Overview
+I'll teach Prelims Probability & Statistics at LMH in seven classes over the course of Michaelmas and Hilary Terms and two revision classes in Trinity Term. Because these are classes, all first-year PPE students will attend the same sessions. Each class will begin with a quiz, but there is no work to submit in advance. I expect you to attend all classes and to arrive on time. If you are unwell and unable to attend, please let me know by email. 
+
+## Dates, Times and Locations 
+
+- **Michaelmas Term:** Thursdays of Weeks 3, 5, and 7 from 3-5:30pm in the Amanda Foreman Room
+- **Hilary Term:** Thursday of Weeks 2, 4, 6, and 8 from 3-5:30pm. Location TBC.
+- **Trinity Term:** Two revision classes, times and location TBC. 
+
+## Read This First
+Before reading further, log onto canvas and read the [Overview and Instructions](https://canvas.ox.ac.uk/courses/218640/pages/3-dot-0-overview-and-instructions-2?module_item_id=2178749) for prelims probability and statistics to you understand how the course is structured.
+
+## Collections
+You will have two 90-minute collections (mock exams) for prelims probability and statistics: one at the beginning of HT covering probability, and another at the beginning of TT covering all of the course material. I will provide further details in class.
+
+## Quizzes 
+
+Each class will begin with a short, closed-book, closed-notes quiz that I will mark and return to you at the next class. In-class quizzes will *always* include a random sample from the **Review Questions** that I assigned for that class. (You can find these under [Class Details](#class-details) below.) Because you are given these questions in advance, you should be able to answer them correctly on the quiz. If you cannot, this means that you have not come to class adequately prepared. Quizzes may also include additional questions based on the material covered in past classes. These questions will be harder and you will not be given them in advance. They are designed to help you practice for collections and the real exam. 
+
+## Before Each Class 
+1. Watch the [lecture videos](https://canvas.ox.ac.uk/courses/218640/pages/3-dot-1-lecture-material-recordings-and-lecture-slides?module_item_id=2178750) listed below under [Class Details](#class-details).
+2. Take notes
+    - Note down key definitions and formulas.
+    - Make flashcards and memorize them using [Anki](https://apps.ankiweb.net).
+3. Solve the **Review Questions** listed below under [Class Details](#class-details).
+4. Repeat as needed:
+    - If you have trouble with the review questions, this means that you need to go back to the lecture videos and slides before attempting them again. 
+    - Working with friends is highly recommended!
+    - Make a note of anything that you find confusing and bring it with you to class.
+    
+<!-- **Optional:** you may also want to consult the [Suggested Reading Assignments](#suggested-reading-assignments) listed below. -->
+<!--
+## After Each Class 
+Complete the **Problem Set Questions** listed below under [Class Details](#class-details). Then watch the associated [Demonstration Lecture](https://canvas.ox.ac.uk/courses/218640/modules/items/2178751) for solutions and explanations. Your problem set questions are neither collected nor marked, but they will serve as inspiration for future quiz and collections problems. 
+
+## Class Material 
+As explained in more detail above: watch the videos and solve the review questions *before* class; complete the problem set and watch the associated demo lecture *after* class. 
+
+### Class \#1 - MT Week 3
+
+#### Videos
+- P0: Introduction
+- P1: Probability Basics
+- P2: Conditional Probability
+- P3: Independence & Bayes' Rule
+  
+#### Review Questions 
+1. What is a probability?
+2. State each of the three axioms of probability, aka the Kolmogorov Axioms.
+3. Suppose we carry out a random experiment that consists of flipping a fair coin twice.
+    (a) List all the basic outcomes in the sample space $\Omega$. 
+    (b) Let $A$ be the event that you get at least one head. List all the basic outcomes in $A$.
+    (c) List all the basic outcomes in $A^c$. 
+    (d) What is the probability of $A$? What is the probability of $A^c$?
+4. State the complement rule.
+5. Mark each statement as TRUE or FALSE. 
+    (a) If $A \subseteq B$ then $P(A) \geq P(B)$. 
+    (b) For any events $A$ and $B$, $P(A \cap B) = P(A)P(B)$
+    (c) For any events $A$ and $B$, $P(A \cup B) = P(A) + P(B) − P(A \cap B)$
+-->
+
+## Collection
+
+You will take a three-hour collection (mock exam) at the beginning of MT in your third year. I will discuss how best to prepare for the collection during our final class in TT of your second year. Because your collection will be based on the most recent QE exam paper, to get the most out of your collection you should avoid peeking at the corresponding exam paper in advance. 
+
+## Revision Classes
+
+During HT of your 3rd year, you will have four QE revision classes: one every other week.
+During the revision classes I will go over past exam questions, focusing on those from the most recent years. A list of the problems I suggest that you prepare for each class follows below. I will take requests from these problems during my classes, emphasizing the more recent problems. Each class **will begin with a quiz** based on the associated course material for that class, so you should make sure to review in advance.
+
+### Logistics: HT 2024
+Thursdays of HT weeks 1, 3, 5, and 7 from 3-5:30pm. Weeks 1, 3, and 7 will be in the Amanda Foreman room; Week 5 will be in the Lyttleton Room.
+
+### Past Exam Solutions
+
+Exam papers for 2014-2022 are posted on the [QE canvas site](https://canvas.ox.ac.uk/courses/172431), along with solutions for  2014-2019. Because older exams are less relevant to the current version of the course, and given that you have solutions to them, I will focus on exams from 2020 onwards in the revision classes. 
+
+
+<!--## A Big Zip Archive 
+I merged and zipped all of the files from Canvas that you have access to:
+- <https://www.dropbox.com/s/lhzxqk8hrdgh258/LMH-QE-revision.zip?dl=0>
+- I also added a file called  `QE-revision-tutorials-2023-Frank-handout.pdf` that is not from Canvas but that you will likely find *extremely helpful*. **This file is for your private use only: you may not distribute it to anyone outside our revision classes!!!!**  
+- Below I've linked some further publicly-available resources from my blog: <https://econometrics.blog>
+-->
+
+### Class 1: Prob/Stats 
+
+#### For Discussion 
+- MT 2023 Collection, Problem 1: cdf and pmf of a discrete RV
+- MT 2022 Collection, Problem 1: cdf and pmf of a discrete RV
+- MT 2021 Collection, Problem 1: higher moments of a Uniform(-1,1) RV
+- MT 2021 Collection, Problem 4: comparing means / causal inference for JTP  
+
+#### Extra Practice
+- MT Collection 2019, Problem 4: two sample t-test for an RCT
+- MT Collection 2018, Problem 4: Bernoulli moments, test for proportion  
+- TT *Exam Paper* 2017, Problem 4: conditional expectation, independence vs. mean independence; best predictor vs. best linear predictor. **This question was omitted from the MT 2017 collection; I'm not sure why.** 
+ 
+### Class 2: Regression 
+
+#### For Discussion 
+- MT 2023 Collection, Problem 3: disposable income and food expenditure
+- MT 2023 Collection, Problem 4: GDP growth and foreign aid
+- MT 2023 Collection, Problem 4: determinants of years of schooling
+- MT 2022 Collection, Problem 4: blood pressure
+- MT 2022 Collection, Problem 5: lottery winners
+- MT 2021 Collection, Problem 3: household expenditure 
+- MT 2021 Collection, Problem 6: heteroskedasticity
+- MT 2020 Collection, Problem 3: categorical regressor and dummy variables
+- MT 2020 Collection, Problem 5(a)-(d): polynomial regression, linear approx.
+
+#### Extra Practice
+- MT 2018 Collection, Problem 5: log-log regression for assortative mating
+- MT 2018 Collection, Problem 6: labor discrimination
+
+### Class 3: Instrumental Vars 
+
+#### For Discussion
+- MT 2023 Collection, Problem 6: TSLS with a control regressor
+- MT 2022 Collection, Problem 3: years of schooling and earnings example
+- MT 2022 Collection, Problem 6: theoretical IV example
+- MT 2021 Collection, Problem 5: smoking and birthweight example
+- MT 2020 Collection, Problem 5(e): nonlinear IV 
+- MT 2020 Collection, Problem 7: wage equation 
+
+#### Extra Practice
+- MT Collection 2019, Problem 5: random coefficients model
+- MT Collection 2019, Problem 7: essay on IV vs. OLS / omitted variables 
+
+### Class 4: Time Series 
+
+#### For Discussion
+- MT 2023 Collection, Problem 3: AR(2) model
+- MT 2023 Collection, Problem 4: co-integration and Granger causality
+- MT 2022 Collection, Problem 2: AR(p) model
+- MT 2022 Collection, Problem 7: co-integration of stock prices and dividends
+- MT 2021 Collection, Problem 2: non-stationarity and spurious regression 
+- MT 2021 Collection, Problem 7: spurious regression, co-integration and Granger causality
+
+#### Extra Practice
+- MT 2019 Collection, Problem 8: stochastic trends and cointegration
+- MT 2020 Collection, Problem 8: arctic sea ice example
+- MT 2020 Collection, Problem 9: surface temperature example
