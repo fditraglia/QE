@@ -153,7 +153,7 @@ Thursdays of HT weeks 1, 3, 5, and 7 from 2-4pm in the Paul Oster Room.
 
 ### Past Exam Solutions
 
-Exam papers for 2014-2022 are posted on the [QE canvas site](https://canvas.ox.ac.uk/courses/172431), along with solutions for  2014-2019. Because older exams are less relevant to the current version of the course, and given that you have solutions to them, I will focus on exams from 2020 onwards in the revision classes. 
+Exam papers for 2014-2022 are posted on the [QE canvas site](https://canvas.ox.ac.uk/courses/172431), along with solutions for  2014-2020. Because you have solutions to the older exams, and because they are also less relevant to the current version of the course, I suggest that we focus on questions from 2021 onwards in our revision classes. Relevant questions from 2020-2024 for each class are listed as "For Discussion" below. Relevant questions from earlier years are listed as "Extra Practice."
 
 
 <!--## A Big Zip Archive 
@@ -166,6 +166,7 @@ I merged and zipped all of the files from Canvas that you have access to:
 ### Class 1: Prob/Stats 
 
 #### For Discussion 
+- MT 2024 Collection, Problem 3: observational vs. experimental studies of JTP 
 - MT 2023 Collection, Problem 1: cdf and pmf of a discrete RV
 - MT 2022 Collection, Problem 1: cdf and pmf of a discrete RV
 - MT 2021 Collection, Problem 1: higher moments of a Uniform(-1,1) RV
@@ -179,6 +180,8 @@ I merged and zipped all of the files from Canvas that you have access to:
 ### Class 2: Regression 
 
 #### For Discussion 
+- MT 2024 Collection, Problem 1: basic regression properties 
+- MT 2024 Collection, Problem 5: linear regressionin logs vs. levels
 - MT 2023 Collection, Problem 3: disposable income and food expenditure
 - MT 2023 Collection, Problem 4: GDP growth and foreign aid
 - MT 2023 Collection, Problem 4: determinants of years of schooling
@@ -186,30 +189,34 @@ I merged and zipped all of the files from Canvas that you have access to:
 - MT 2022 Collection, Problem 5: lottery winners
 - MT 2021 Collection, Problem 3: household expenditure 
 - MT 2021 Collection, Problem 6: heteroskedasticity
-- MT 2020 Collection, Problem 3: categorical regressor and dummy variables
-- MT 2020 Collection, Problem 5(a)-(d): polynomial regression, linear approx.
 
 #### Extra Practice
+- MT 2020 Collection, Problem 3: categorical regressor and dummy variables
+- MT 2020 Collection, Problem 5(a)-(d): polynomial regression, linear approx.
 - MT 2018 Collection, Problem 5: log-log regression for assortative mating
 - MT 2018 Collection, Problem 6: labor discrimination
 
 ### Class 3: Instrumental Vars 
 
 #### For Discussion
+- MT 2024 Collection, Problem 4: classical measurement error
+- MT 2024 Collection, Problem 6: incarceration and child outcomes example
 - MT 2023 Collection, Problem 6: TSLS with a control regressor
 - MT 2022 Collection, Problem 3: years of schooling and earnings example
 - MT 2022 Collection, Problem 6: theoretical IV example
 - MT 2021 Collection, Problem 5: smoking and birthweight example
-- MT 2020 Collection, Problem 5(e): nonlinear IV 
-- MT 2020 Collection, Problem 7: wage equation 
 
 #### Extra Practice
+- MT 2020 Collection, Problem 5(e): nonlinear IV 
+- MT 2020 Collection, Problem 7: wage equation 
 - MT Collection 2019, Problem 5: random coefficients model
 - MT Collection 2019, Problem 7: essay on IV vs. OLS / omitted variables 
 
 ### Class 4: Time Series 
 
 #### For Discussion
+- MT 2024 Collection, Problem 2: AR(2) correlograms
+- MT 2024 Collection, Problem 7: uncovered interest rate parity example
 - MT 2023 Collection, Problem 3: AR(2) model
 - MT 2023 Collection, Problem 4: co-integration and Granger causality
 - MT 2022 Collection, Problem 2: AR(p) model
@@ -218,6 +225,6 @@ I merged and zipped all of the files from Canvas that you have access to:
 - MT 2021 Collection, Problem 7: spurious regression, co-integration and Granger causality
 
 #### Extra Practice
-- MT 2019 Collection, Problem 8: stochastic trends and cointegration
 - MT 2020 Collection, Problem 8: arctic sea ice example
 - MT 2020 Collection, Problem 9: surface temperature example
+- MT 2019 Collection, Problem 8: stochastic trends and cointegration
