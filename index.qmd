@@ -22,6 +22,7 @@ I've written some blog posts covering topics from QE or slight extensions of the
 - [Why Econometrics is Confusing: The Error Term](https://www.econometrics.blog/post/why-econometrics-is-confusing-part-1-the-error-term/)
 - [Understanding the F-Statistic](https://www.econometrics.blog/post/understanding-the-f-statistic/)
 - [The CLT: Thirty isn't the magic number](https://www.econometrics.blog/post/thirty-isn-t-the-magic-number/)
+- [How to Do Regression Adjustment](https://www.econometrics.blog/post/how-to-do-regression-adjustment/)
 
 ## Classes
 During TT of your second year, you will have eight QE classes: one each week.
