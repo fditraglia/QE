@@ -218,8 +218,8 @@ I merged and zipped all of the files from Canvas that you have access to:
 #### For Discussion
 - MT 2024 Collection, Problem 2: AR(2) correlograms
 - MT 2024 Collection, Problem 7: uncovered interest rate parity example
-- MT 2023 Collection, Problem 3: AR(2) model
-- MT 2023 Collection, Problem 4: co-integration and Granger causality
+- MT 2023 Collection, Problem 2: AR(2) model
+- MT 2023 Collection, Problem 7: co-integration and Granger causality
 - MT 2022 Collection, Problem 2: AR(p) model
 - MT 2022 Collection, Problem 7: co-integration of stock prices and dividends
 - MT 2021 Collection, Problem 2: non-stationarity and spurious regression 
